@@ -246,6 +246,7 @@ button {
     position: sticky;
     float: right;
     top: 15%;
+    padding-top: 70px;
 }
 
 .social img{
